@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moataz, i usually go by Deva on the internet
 - 👀 I’m a MERN Stack Developer
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning 
 - 📫 How to reach me: https://www.linkedin.com/in/moataz-mohamed-457941226/ & deva.24 on Discord
 <!-- 💞️ I’m looking to collaborate on ...-->
 
