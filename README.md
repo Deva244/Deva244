@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Moataz, i usually go by Deva on the internet
+- 👋 Hi, I’m Deva
 - 👀 I’m a MERN Stack Developer
 - 🌱 I’m currently learning 
-- 📫 How to reach me: https://www.linkedin.com/in/moataz-mohamed-457941226/ & deva.24 on Discord
+- 📫 How to reach me: Message me here or @deva.24 on Discord
 <!-- 💞️ I’m looking to collaborate on ...-->
 
 <!---
